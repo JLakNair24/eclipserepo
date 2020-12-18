@@ -18,6 +18,7 @@ public class Convert1 {
 			System.out.println(s);
 			s=Integer.toHexString(i);
 			System.out.println(i);
+			System.out.println("hii");
 	    }
 	    
 }
